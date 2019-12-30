@@ -7,5 +7,7 @@ This is to test the Second commit.
 
 A new line to create a branch.
 
+The file has been edited in the new branch
+
 
 Thanks.
